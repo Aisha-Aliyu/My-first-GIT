@@ -1,4 +1,2 @@
-rtbgnyhmuji,ko.l.lkjhnbgvfcdcvfbgnhjmkrsdfgyhujikolp;mnjbvcxzzxdcfgvhbjnkmjkbhgfc
-wscdvfbgnhojpm jhbg
-dvfbgnhpj , nubv
-uvczex crtvyb
+Hi 
+This is me learning to use git
